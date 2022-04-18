@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Aref Ruqaa
+- Font Author: Copyright 2015-2021 The Aref Ruqaa Project Authors (https://github.com/alif-type/aref-ruqaa), with Reserved Font Name EURM10.
+- Font Source: http://fonts.gstatic.com/s/arefruqaa/v21/WwkYxPW1E165rajQKDulKDwNcNIS2N_7Bdk.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
